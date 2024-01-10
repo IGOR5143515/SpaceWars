@@ -1,0 +1,12 @@
+﻿  Asteroid.cpp
+C:\Users\IGOR\source\repos\SpaceWars\SpaceWars\Asteroid.cpp(13,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\IGOR\source\repos\SpaceWars\SpaceWars\Asteroid.cpp(40,38): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\IGOR\source\repos\SpaceWars\SpaceWars\Asteroid.cpp(82,25): warning C4305: +=: усечение из "double" в "float"
+  Engine.cpp
+C:\Users\IGOR\source\repos\SpaceWars\SpaceWars\Engine.cpp(10,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\IGOR\source\repos\SpaceWars\SpaceWars\Engine.cpp(27,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\IGOR\source\repos\SpaceWars\SpaceWars\Engine.cpp(30,55): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\IGOR\source\repos\SpaceWars\SpaceWars\Engine.cpp(34,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\IGOR\source\repos\SpaceWars\SpaceWars\Engine.cpp(37,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  SpaceWars.vcxproj -> C:\Users\IGOR\source\repos\SpaceWars\x64\Debug\SpaceWars.exe
